@@ -28,6 +28,6 @@ int main()
 	int length = { promptName() };
 	int age = { promptAge() };
 	printResult(length, age);
-
+	//
 	return 0;
 }
